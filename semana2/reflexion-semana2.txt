@@ -1,0 +1,11 @@
+Para un desarrollador, usar la terminal es clave porque 
+da velocidad para renombrar, buscar y organizar cientos 
+de archivos en segundos, permite automatizar tareas con 
+scripts de git, npm o docker, da acceso a herramientas 
+esenciales que no tienen interfaz gráfica, es la única 
+forma de trabajar en servidores remotos por SSH, ayuda 
+a entender a fondo la estructura y rutas del proyecto 
+para evitar bugs, y permite usar git con control total 
+cuando algo falla. En resumen: la terminal te da 
+control, velocidad y acceso al flujo real de desarrollo 
+que un IDE por sí solo no cubre.
