@@ -1,0 +1,5 @@
+Mantener un registro de cambios en el desarrollo de software es similar a 
+tener una máquina del tiempo y un diario de navegación al mismo tiempo. 
+Cuando equipos de personas trabajan en un mismo código. Su importancia 
+radica en que transforma el desarrollo de un proceso lineal y arriesgado en 
+uno colaborativo, reversible y documentado.

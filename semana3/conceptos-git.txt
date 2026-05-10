@@ -1,0 +1,12 @@
+Repositorio: Es una carpeta en la nube que guarda todo el código y el 
+historial de un proyecto.  Permite trabajar en equipo sin perder versiones 
+anteriores de los archivos.
+
+
+Commit: es un comando que guarda y registra los cambios que se hacen en el 
+proyecto con un mensaje descriptivo.
+
+Push: es el comando que sube los commits desde el 
+dispositivo al repositorio remoto en GitHub. Sin push, 
+los cambios se quedan solo en tu máquina y nadie más 
+los ve.
