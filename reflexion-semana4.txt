@@ -1,0 +1,10 @@
+Cuando las comunidades crean sus propias herramientas con tecnologías 
+abiertas como Node.js, dejan de depender de grandes empresas y toman 
+el control de sus propios datos y decisiones. Al ser software libre, 
+no tienen que pagar costosas licencias y pueden adaptar la tecnología 
+exactamente a lo que su barrio o organización necesita. Además, esto 
+les permite aprender haciendo, compartiendo el conocimiento de forma 
+comunitaria para que cualquiera pueda mejorar la herramienta en el 
+futuro. En resumen, les da autonomía, ahorra dinero y une a las 
+personas en torno a un proyecto común que realmente resuelve sus 
+problemas cotidianos.
