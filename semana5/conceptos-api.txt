@@ -1,0 +1,15 @@
+Qué hace esta ruta?.
+ Es una ruta POST que sirve para recibir datos 
+enviados por el usuario (en este caso, un reporte). El servidor lee 
+ese mensaje y le responde al usuario con una confirmación en formato 
+JSON para avisarle que su reporte se recibió correctamente.
+
+
+
+Para qué podría servir en una aplicación comunitaria?
+ Serviría para  que los habitantes de una comunidad puedan enviar reportes o alertas
+en tiempo real desde sus celulares. Por ejemplo, permitiría a un 
+vecino reportar un daño en el alumbrado público, una fuga de agua, un 
+problema de basura o una emergencia vecinal, enviando el texto 
+directamente al servidor para que la junta comunal o la alcaldía se 
+entere y pueda solucionarlo.

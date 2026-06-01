@@ -1,0 +1,9 @@
+Las APIs actúan como puentes organizados que centralizan toda la 
+información de una comunidad en un solo lugar. En vez de tener 
+reportes dispersos en llamadas o grupos de WhatsApp, una API obliga a 
+que todos los datos (como alertas o quejas) viajen con una misma 
+estructura limpia y fácil de leer. Además, permiten separar los 
+problemas automáticamente por categorías mediante el uso de rutas 
+específicas, como una ruta exclusiva para emergencias y otra para 
+daños en las calles.
+

@@ -1,0 +1,5 @@
+En el primer vinculo dice, servidor activo solamente.
+
+En el segundo nos da un saludo a toda la comunidad.
+
+Y en el tercero es un saludo personal, que dice " hola Juan".
