@@ -1,0 +1,2 @@
+en el ejemplo que se realizo obtuvimos la siguiente respuesta al probar el servidor.
+{"estado":"Datos recibidos","nombre":"Maria","mensaje":"Hola comunidad"}

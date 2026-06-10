@@ -1,0 +1,4 @@
+
+{ '{"titulo":"Falla eléctrica",
+ "descripcion":"Corto circuito en el salón", 
+  "lugar":"Edificio A"}'
