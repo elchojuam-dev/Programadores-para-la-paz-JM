@@ -1,0 +1,7 @@
+los ejemplos qje se hicieron durante la actividad fueron esto:
+ejemolo #1 : 
+'{"tipo": "Infraestructura", "descripcion": "Daño en alumbrado público"}' ~ $
+
+ejemplo #2:
+
+ '{"tipo": "Ambiente", "descripcion": "Acumulación de residuos en una zona comunitaria"}'
