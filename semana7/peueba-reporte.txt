@@ -1,6 +1,0 @@
-Cuando consulté la ruta, me apareció una respuesta en formato JSON que me devolvió una lista con el 
-reporte que guardé antes. En la pantalla se ve el reporte con su número de id, el tipo de problema 
-(Infraestructura) y la descripción exacta del daño (Daño en alumbrado público).
-asi :
-'{"tipo": "Infraestructura", "descripcion": "Daño en alumbrado público"}'
-~ $
