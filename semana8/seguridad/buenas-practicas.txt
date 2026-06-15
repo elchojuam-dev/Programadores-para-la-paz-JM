@@ -1,0 +1,3 @@
+1. Verificar enlaces y correos sospechosos
+2. Hacer copias de seguridad periódicas
+3. Cerrar sesión en equipos compartidos

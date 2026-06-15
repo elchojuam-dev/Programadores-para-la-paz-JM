@@ -1,0 +1,20 @@
+
+Al ejecutar uname -a me sale la información de identidad del sistema operativo, la cual me muestra 
+que estoy trabajando sobre un núcleo Linux dentro de un entorno Android, el nombre local del equipo 
+(localhost), la versión exacta del motor interno (Kernel), la fecha en que se creó y la arquitectura 
+de mi procesador (aarch64, que indica que es de 64 bits). En resumen, me detalla la estructura, el 
+motor y la compatibilidad de mi dispositivo.
+
+ es este exactamente:
+ Linux localhost 6.6.30-android15-8-g4fe769f2a398-ab12844593-4k #1 SMP PREEMPT 
+Mon Dec 23 09:13:37 UTC 2024 aarch64 Android
+
+
+
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+ Conocer la información del sistema es útil porque te permite instalar programas perfectamente compatibles con 
+la arquitectura del servidor, saber qué actualizaciones de seguridad necesitas aplicar para evitar 
+hackeos y controlar qué usuario está ejecutando las tareas para no borrar archivos importantes por 
+accidente.
