@@ -1,0 +1,9 @@
+Una plataforma de participación ciudadana necesita una base de datos porque es el único 
+medio para estructurar, cruzar y almacenar de forma segura las propuestas, votos y debates 
+de la comunidad, transformando las opiniones dispersas en datos accionables. ​A su vez, la 
+autenticación de usuarios es imprescindible para garantizar que cada opinión corresponda a 
+un ciudadano real y único, evitando la manipulación del debate mediante perfiles falsos o 
+bots, lo que da legitimidad democrática a los resultados. ​Finalmente, la protección de la 
+información es el pilar que sostiene todo el sistema: si los ciudadanos temen que sus 
+posturas políticas o datos personales sean filtrados o utilizados para represalias, la 
+confianza se rompe y la participación sencillamente desaparece.

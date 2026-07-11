@@ -1,0 +1,8 @@
+El login es la puerta de acceso a una aplicación. Es el proceso donde te identificas 
+(normalmente con usuario y contraseña) para que el sistema sepa exactamente quién eres y 
+te dé paso a tu cuenta personal. ​Algunas rutas o secciones deben estar protegidas por pura 
+seguridad y privacidad. Si no lo estuvieran, cualquiera podría escribir la dirección web 
+en su navegador y entrar a tu panel de administración, ver tus configuraciones o modificar 
+tu perfil sin tu permiso. Protegerlas garantiza que solo los usuarios autorizados y 
+autenticados puedan ver ese contenido. ​En cuanto a la información que jamás debe exponerse 
+públicamente, la regla de oro es proteger todo lo que sea confidencial o personal.

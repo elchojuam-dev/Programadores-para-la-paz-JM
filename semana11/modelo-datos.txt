@@ -1,0 +1,27 @@
+
+ejemplo #1 :
+
+Entidad: Personaje
+
+​Campos principales:
+​id
+​nombre_codigo
+​rol_combate
+​nivel_bloqueo
+
+​Propósito: Administrar el catálogo de héroes o campeones que están programados en el 
+videojuego y sus requisitos de desbloqueo.
+
+ejemplo #2:
+
+ ​Entidad: Desafio Diario
+
+ ​Campos principales:
+ ​id 
+​descripcion_reto
+ ​recompensa_puntos
+ ​estado_completado
+
+ ​Propósito: Controlar las misiones 
+temporales que el sistema genera automáticamente cada día para mantener a los usuarios 
+activos.

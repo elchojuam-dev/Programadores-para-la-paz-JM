@@ -1,0 +1,14 @@
+
+¿como seria una interfaz simple para esta plataforma?
+
+Formulario para crear causa: Un recuadro simple con tres campos (Título, Descripción y 
+Fecha), más un botón para publicar.
+
+ ​Vista de causas disponibles: Una lista ordenada de tarjetas que muestra las iniciativas 
+ya creadas por los usuarios.
+
+ ​Contador de apoyo: Un indicador numérico en cada tarjeta (ej: 
+"❤️ 12 apoyos") que refleja cuántas personas se han sumado.
+
+ ​Botón para apoyar una causa: Un botón interactivo (ej: "👍 Apoyar") al lado del contador que, al presionarlo, suma un 
+apoyo al instante de forma anónima.
