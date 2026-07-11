@@ -1,0 +1,16 @@
+
+¿Que tareas del backlog harías primero?
+ ​Configurar el formulario de registro de peticiones con 
+ evidencias fotográficas (Historia del ciudadano). ​Implementar el sistema de control de acceso y
+roles de usuario (Administrador/Privacidad).
+
+ ​2. ¿Por qué son las más importantes?
+ ​Son las más importantes porque constituyen los cimientos 
+ seguros del proyecto. Sin el formulario de registro no
+hay datos ni materia prima para que la veeduría funcione; y sin los roles de usuario activos desde 
+el primer día, se pondría en riesgo la privacidad y seguridad de los ciudadanos al dejar sus datos 
+expuestos sin control de acceso.
+
+ ​3. ¿Qué significa para ti que una tarea esté “terminada”?
+ ​Para mí significa que la funcionalidad es completamente operativa, segura y transparente, garantizando que 
+cumple con el objetivo social del proyecto sin romper nada del sistema existente.

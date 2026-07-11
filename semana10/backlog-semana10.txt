@@ -1,0 +1,13 @@
+
+​1. Como ciudadano quiero registrar una petición con evidencias fotográficas para dejar constancia 
+pública del estado de una obra en el territorio.
+
+2. ​Como revisor quiero cambiar el estado de un reporte a pendiente_revision para que el equipo sepa 
+qué casos están siendo evaluados.
+
+3.  ​Como coordinador quiero recibir una notificación automática en telegram cuando se registre una 
+nueva incidencia para agilizar los tiempos de respuesta del equipo.
+
+4.  ​Como administrador quiero 
+asignar roles específicos a los miembros del equipo para asegurar que solo el personal autorizado 
+pueda modificar los datos sensibles de los denunciantes.

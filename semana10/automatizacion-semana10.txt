@@ -1,0 +1,17 @@
+
+ejemplo:
+
+​¿Qué evento activa el flujo?
+Se registra una nueva solicitud de soporte técnico en la plataforma web mediante un formulario.
+
+​¿Qué mensaje se enviaría a Telegram?
+ "🚨 Alerta de Soporte: Se ha generado el ticket #TK-8843. 
+Prioridad: Alta. Asunto: Error de conexión en servidor secundario. Asignar técnico en el panel 
+corporativo."
+
+​¿Qué información no debería enviarse por seguridad?
+Nota : Aunque el formulario web capture estos datos, nunca deben incluirse en el mensaje de Telegram:
+​El nombre del cliente afectado (ej. Juan Pérez).
+​Su número de identificación (ej. CC 10234567).
+​Su dirección o teléfono de contacto (ej. Calle 45 #12-34 / +57 300 123 4567).
+​Credenciales de acceso o direcciones IP del servidor afectado (ej. admin / clave123 / 192.168.1.50).
