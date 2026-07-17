@@ -1,0 +1,18 @@
+
+Reporte de Daños en el Barrio
+
+ ​Paso 1 (Reporte): Un vecino publica un problema de su calle 
+(como un bache o una farola rota) con una descripción rápida.
+
+​Paso 2 (Registro): El sistema guarda el reporte en la base de datos sin pedir datos 
+personales sensibles.
+
+​Paso 3 (Respaldo): Otros vecinos entran al mapa del barrio y hacen clic en "Confirmar 
+problema" para darle prioridad.
+
+Paso 4 (Alerta): Al acumular varios apoyos, un bot de Telegram avisa de forma automática a 
+la junta comunal.
+
+Paso 5 (Acción): Se genera un documento PDF con todos los daños reportados para entregarlo 
+directamente a la alcaldía.
+

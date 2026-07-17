@@ -1,0 +1,39 @@
+​1. Entidad: Reporte (o Incidente)
+​Representa el problema comunitario que un vecino registra en el sistema.
+
+​id: El número único de identificación de ese reporte (para que el sistema no lo confunda 
+con otros).
+
+titulo: Un resumen corto del problema (por ejemplo: "Bache profundo en la 
+calle principal").
+
+descripcion: El detalle de lo que ocurre (por ejemplo: "Lleva 3 
+semanas y daña los neumáticos").
+
+fecha: El día y la hora exacta en que el vecino publicó 
+el reporte.
+
+¿Para qué sirve? Almacena de forma ordenada todos los problemas activos del 
+barrio para que otros vecinos puedan verlos y decidir si los apoyan.
+
+
+ejemolo #2:
+
+Entidad: Apoyo (o Firma) ​Representa el respaldo que otros miembros de la comunidad dan a 
+un problema específico para demostrar que es importante.
+
+id: El identificador único de este voto o firma. ​
+
+reporte_id (o causa_id): La clave que conecta este apoyo con el reporte 
+específico que se está respaldando. ​
+
+nombre: El nombre del vecino que apoya (manteniendo la 
+privacidad al mínimo). ​
+
+fecha: El momento exacto en que el vecino hizo clic para apoyar. 
+​
+
+¿Para qué sirve?
+ Permite llevar la cuenta de cuántas personas se ven afectadas por un 
+mismo problema. Al conectar cada "Apoyo" con un "Reporte", el sistema puede saber qué 
+bache o daño tiene más prioridad para la comunidad.

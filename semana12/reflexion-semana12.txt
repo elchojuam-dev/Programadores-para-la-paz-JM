@@ -1,0 +1,12 @@
+
+aprendí que la tecnología, cuando se diseña con un enfoque social, deja de ser un asunto 
+puramente técnico para convertirse en un puente directo de transformación comunitaria, 
+donde herramientas accesibles como las APIs de reportes de incidentes optimizadas para 
+dispositivos móviles permiten que cualquier persona registre alertas en tiempo real, 
+descentralizando la participación y convirtiendo preocupaciones aisladas en datos 
+organizados y valiosos. Al estructurar esta información de manera transparente y 
+colaborativa, no solo facilitamos la comunicación directa entre vecinos, sino que les 
+entregamos argumentos estadísticos sólidos para sustentar sus necesidades ante las 
+autoridades, demostrando que el verdadero valor del desarrollo de software radica en crear 
+soluciones abiertas que se adapten a la realidad del territorio y fortalezcan la 
+organización colectiva desde la base.
